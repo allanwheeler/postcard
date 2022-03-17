@@ -1,0 +1,15 @@
+---
+title: "Allan Wheeler"
+image: "2.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/allanwheeler/"
+  - label: Tableau Public
+    url: "https://public.tableau.com/app/profile/allan.wheeler"
+  - label: GitHub
+    url: "https://github.com/allanwheeler/"
+output:
+  postcards::jolla
+---
+
+Currently, I am a Business Intelligence and Institutional Research Analyst at Loyola Marymount University in Los Angeles, California. 
